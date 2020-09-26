@@ -1,0 +1,22 @@
+{
+  "name": "pokimoncards",
+  "version": "1.0.0",
+  "description": "pokemon card generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minierparedes/API-solo-project.git"
+  },
+  "keywords": [
+    "pokemonCardGenerator"
+  ],
+  "author": "minierparedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minierparedes/API-solo-project/issues"
+  },
+  "homepage": "https://github.com/minierparedes/API-solo-project#readme"
+}
