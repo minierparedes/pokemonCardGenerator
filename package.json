@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minierparedes/API-solo-project.git"
+    "url": "git+https://github.com/minierparedes/pokemonCardGenerator"
   },
   "keywords": [
     "pokemonCardGenerator"
@@ -16,7 +16,7 @@
   "author": "minierparedes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/minierparedes/API-solo-project/issues"
+    "url": "https://github.com/minierparedes/pokemonCardGenerator"
   },
-  "homepage": "https://github.com/minierparedes/API-solo-project#readme"
+  "homepage": "https://github.com/minierparedes/pokemonCardGenerator#readme"
 }
